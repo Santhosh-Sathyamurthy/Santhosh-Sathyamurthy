@@ -9,7 +9,7 @@ Currently learning and building in Python, JavaScript, and LaTeX-heavy workflows
 ## 🌐 Web Projects
 
 - 🔗 [**santhosh-sathyamurthy.github.io**](https://github.com/Santhosh-Sathyamurthy/Santhosh-Sathyamurthy.github.io) – My personal website  
-- 🔗 [**vivanteiisertirupati.github.io**](https://github.com/VivanteIISERTirupati/VivanteIISERTirupati.github.io) – IISER Tirupati outreach club  
+- 🔗 [**vivanteiisertirupati.github.io**](https://github.com/VivanteIISERTirupati/VivanteIISERTirupati.github.io) – IISER Tirupati's Own Fest!  
 - 🔗 [**techclub-iisertpt.github.io**](https://github.com/techclub-iisertpt/techclub-iisertpt.github.io) – Tech Club web portal  
 
 ---
