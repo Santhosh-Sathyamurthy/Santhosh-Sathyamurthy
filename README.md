@@ -1,59 +1,75 @@
-# 👋 Hi, I'm Santhosh Sathyamurthy
+# Hi, I'm Santhosh Sathyamurthy
 
-🎓 Undergraduate student at **IISER Tirupati**  
-🧠 I explore science and software — from physical models to full-stack web apps.  
-Currently learning and building in Python, JavaScript, and LaTeX-heavy workflows.
+I am an undergraduate Physics student at IISER Tirupati. My work sits between physics and software. I like deriving theory carefully and then implementing it computationally to see it work in practice. Most of my projects involve scientific computing, simulations, and building tools that support research workflows.
 
 ---
 
-## 🌐 Web Projects
+## What I work on
 
-- 🔗 [**santhosh-sathyamurthy.github.io**](https://github.com/Santhosh-Sathyamurthy/Santhosh-Sathyamurthy.github.io) – My personal website  
-- 🔗 [**vivanteiisertirupati.github.io**](https://github.com/VivanteIISERTirupati/VivanteIISERTirupati.github.io) – IISER Tirupati's Own Fest!  
-- 🔗 [**techclub-iisertpt.github.io**](https://github.com/techclub-iisertpt/techclub-iisertpt.github.io) – Tech Club web portal  
+**Physics and scientific computing**
+
+- Navier–Stokes simulations in Julia and Python
+- Compressible flow and turbulence related numerical experiments
+- Analytical derivations in electrodynamics, fluid mechanics, and quantum mechanics
+- Computational implementations of physical models from scratch
+
+**Software and systems**
+
+- Cross platform engine development and platform abstraction
+- Scientific tooling and automation for research workflows
+- Numerical computing pipelines and simulation infrastructure
+- Academic documentation workflows using LaTeX, Markdown, and Zotero
+
+**Web and technical infrastructure**
+
+- Personal academic website
+- Tech Club IISER Tirupati website
+- Vivante fest website
 
 ---
 
-## 🧰 Tech I Use
+## Technical tools I use
 
-### 🔧 Languages & Tools
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧪 Scientific & Productivity Tools
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
-![Qiskit](https://img.shields.io/badge/Qiskit-purple?style=for-the-badge&logo=ibm&logoColor=white)
-![Manim](https://img.shields.io/badge/Manim-000?style=for-the-badge&logo=playstation&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Scientific and research tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-purple?style=for-the-badge&logo=ibm&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
+![Manim](https://img.shields.io/badge/Manim-black?style=for-the-badge)
+
+**Systems and development**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## Websites
 
-- ⚛️ Quantum computing with **Qiskit**
-- 🌐 Full Stack Web Dev with **Django**, **Node.js**, and **React**
-- 🧾 Scientific documentation using **LaTeX** and **GitHub Pages**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Sathyamurthy&show_icons=true&theme=radical&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Sathyamurthy&layout=compact&theme=radical&langs_count=6)
-
-</div>
+- https://santhosh-sathyamurthy.github.io  
+- https://vivanteiisertirupati.github.io  
+- https://techclub-iisertpt.github.io  
 
 ---
 
-> _“The best way to predict the future is to create it.” — Alan Kay_
+## Current focus
 
-📫 Feel free to check out my work or reach out if you’re building something cool!
+- Computational fluid dynamics and turbulence  
+- Numerical methods for differential equations  
+- Scientific simulation development  
+- Mathematical physics and analytical derivations  
+
+---
+
+I am interested in understanding physical systems deeply and building software that reflects that understanding.
